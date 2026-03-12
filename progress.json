@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T11:10:21.441Z",
+  "generated_at": "2026-10-17T11:10:23.542Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -26,6 +26,97 @@
       "last_pushed_at": "2026-03-10T16:08:41.632Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2026-03-12T04:06:51.668Z",
+      "last_pushed_at": "2026-03-12T04:06:51.668Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-03-12T04:10:17.588Z",
+      "last_pushed_at": "2026-03-12T04:10:17.588Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2026-03-12T04:25:31.149Z",
+      "last_pushed_at": "2026-03-12T04:25:31.149Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-03-12T05:57:09.382Z",
+      "last_pushed_at": "2026-03-12T05:57:09.382Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-03-12T06:00:58.962Z",
+      "last_pushed_at": "2026-03-12T06:00:58.962Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-03-12T06:07:28.331Z",
+      "last_pushed_at": "2026-03-12T06:07:28.331Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2026-03-12T06:13:15.202Z",
+      "last_pushed_at": "2026-03-12T06:13:15.202Z",
+      "language": "python",
+      "lines": 9
     }
   }
 }
