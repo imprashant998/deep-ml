@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T11:10:23.542Z",
+  "generated_at": "2026-10-17T11:10:25.630Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -117,6 +117,41 @@
       "last_pushed_at": "2026-03-12T06:13:15.202Z",
       "language": "python",
       "lines": 9
+    },
+    "math:7": {
+      "kind": "math",
+      "id": "7",
+      "title": "Vector Operations",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/7",
+      "path": "math/0007-vector-operations",
+      "first_solved_at": "2026-10-15T05:30:08.488Z",
+      "last_pushed_at": "2026-10-15T05:30:08.488Z"
+    },
+    "math:8": {
+      "kind": "math",
+      "id": "8",
+      "title": "Vector Norms and Linear Independence",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/8",
+      "path": "math/0008-vector-norms-and-linear-independence",
+      "first_solved_at": "2026-10-15T05:46:38.174Z",
+      "last_pushed_at": "2026-10-15T05:46:38.174Z"
+    },
+    "problem:121": {
+      "kind": "problem",
+      "id": "121",
+      "title": "Vector Element-wise Sum",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/121",
+      "path": "problems/0121-vector-element-wise-sum",
+      "first_solved_at": "2026-10-15T08:51:37.603Z",
+      "last_pushed_at": "2026-10-15T08:51:37.603Z",
+      "language": "python",
+      "lines": 6
     }
   }
 }
