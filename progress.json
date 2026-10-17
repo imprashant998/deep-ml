@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T11:10:27.454Z",
+  "generated_at": "2026-10-17T11:10:29.432Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -127,7 +127,7 @@
       "url": "https://www.deep-ml.com/math-problems/7",
       "path": "math/0007-vector-operations",
       "first_solved_at": "2026-10-15T05:30:08.488Z",
-      "last_pushed_at": "2026-10-15T05:30:08.488Z"
+      "last_pushed_at": "2026-10-17T11:10:29.430Z"
     },
     "math:8": {
       "kind": "math",
@@ -138,7 +138,7 @@
       "url": "https://www.deep-ml.com/math-problems/8",
       "path": "math/0008-vector-norms-and-linear-independence",
       "first_solved_at": "2026-10-15T05:46:38.174Z",
-      "last_pushed_at": "2026-10-15T05:46:38.174Z"
+      "last_pushed_at": "2026-10-17T11:10:29.430Z"
     },
     "problem:121": {
       "kind": "problem",
@@ -175,7 +175,7 @@
       "url": "https://www.deep-ml.com/math-problems/9",
       "path": "math/0009-matrix-basics",
       "first_solved_at": "2026-10-16T16:20:06.816Z",
-      "last_pushed_at": "2026-10-16T16:20:06.816Z"
+      "last_pushed_at": "2026-10-17T11:10:29.430Z"
     },
     "math:10": {
       "kind": "math",
@@ -186,7 +186,7 @@
       "url": "https://www.deep-ml.com/math-problems/10",
       "path": "math/0010-matrix-multiplication",
       "first_solved_at": "2026-10-16T16:20:49.803Z",
-      "last_pushed_at": "2026-10-16T16:20:49.803Z"
+      "last_pushed_at": "2026-10-17T11:10:29.430Z"
     }
   }
 }
